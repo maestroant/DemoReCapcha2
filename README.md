@@ -7,3 +7,5 @@ Xevil (with license) is installed on the remote Windows server. It does not prov
 2. We take the key we need from the html code
 3. We send a request to our server. We are waiting for the result
 4. We form a POST request with the result of the captcha.
+
+Result output. If we see "Verification Success... Hooray!" it means everything is ok! ;)
