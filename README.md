@@ -9,4 +9,5 @@ Xevil (with license) is installed on the remote Windows server. It does not prov
 4. We form a POST request with the result of the captcha.
 
 Result output. If we see "Verification Success... Hooray!" it means everything is ok! ;)
-The material is provided for informational purposes only. I am not responsible for misuse and damage caused.
+
+The material is provided for informational purposes only. I am not responsible for misuse.
